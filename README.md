@@ -1,2 +1,3 @@
-# Aplikasi-Mobile-Learning-Informasi-Pertolongan-Pasien-Positive-Covid-19
-Aplikasi Mobile Learning Informasi Pertolongan Pasien Positive Covid-19
+# Aplikasi Informasi Sekolah Berbasis Laravel
+Aplikasi Informasi Sekolah Berbasis Laravel<br>
+MarcoSuteja_20205520015
